@@ -195,7 +195,7 @@ import time
 import io
 
 # ========== CONFIGURATION ==========
-HF_API_KEY = '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'  # REPLACE WITH YOUR ACTUAL KEY
+HF_API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'  # REPLACE WITH YOUR ACTUAL KEY
 PROMPT = "a cute red panda eating bamboo"  # REPLACE WITH YOUR PROMPT
 # ===================================
 
