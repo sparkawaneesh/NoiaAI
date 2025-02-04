@@ -1,0 +1,2 @@
+# NoiaAI
+Desktop AI Assistant.
